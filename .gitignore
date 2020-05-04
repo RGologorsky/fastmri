@@ -1,4 +1,8 @@
 
+# data folders have images
+data/
+data2/
+
 # update_repo contains pw info
 update_repo.ipynb
 
