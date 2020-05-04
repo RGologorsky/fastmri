@@ -1,0 +1,4 @@
+Commands:
+
+Cygwin:
+tar -tf knee_singlecoil_val.tar | grep -Eo '[^/]+$' > singlecoil_val2.txt

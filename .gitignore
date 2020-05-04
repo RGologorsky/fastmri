@@ -3,6 +3,10 @@
 data/
 data2/
 
+# huge tar files
+*.tar
+*.tar.gz
+
 # update_repo contains pw info
 update_repo.ipynb
 
